@@ -329,6 +329,7 @@ nav{
     padding-top: 3px;
 }
 .cards{
+    cursor: pointer;
     display: flex;
     flex-direction: column;
     justify-content: center;
